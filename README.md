@@ -1,7 +1,7 @@
 # General Instructions
 ### All files listed below are exported manually from the Project Manager in Zenon Supervisor.
 - Functions.XML
-- HistoryOfChanges.CSV
+- HistoryOfChanges.XML
 - Interlockings.XML
 - Language.csv
 - RGM_Recipes.XML
@@ -10,7 +10,7 @@
 
 ### In order to export the above files...
 - Right click each section and click "Export all as XML..."
-  - For History of Changes (if used) export as CSV for easier readability
+  - For History of Changes (if used) make sure everything is exported. By default Zenon will only show most recent 1000.
 - Name the XML as the section you just exported
 
 ### For Zenon Logic:
